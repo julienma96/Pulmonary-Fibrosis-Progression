@@ -15,9 +15,10 @@ Predict lung function decline
 
 **This is a Kaggle Competition.** \
 For more information and data sets --> https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression \
-Another notebook will be uploaded soon, I am currently busy with exams.\
-\
+
 **Whats to come?** \
+Another notebook will be uploaded soon, I am currently busy with exams.\
+
 I noticed that the data is way too big to fit in 16GB RAM\
 That's why I'm going to use Tensorflow's Data API to run the Functional Keras model. \
-The model itself consists of a MLP branch and a CNN branch and will take multiple inputs and have multiple outputs.\
+The model itself consists of a MLP branch and a CNN branch and will take multiple inputs and have multiple outputs
