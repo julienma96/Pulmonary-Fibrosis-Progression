@@ -11,10 +11,10 @@ Predict lung function decline
 >but doctors aren’t easily able to tell where an individual may fall on that spectrum. \
 >Your help, and data science, may be able to aid in this prediction, \
 >which would dramatically help both patients and clinicians.
-> First part of the competition's description\
+> First part of the competition's description
 
 **This is a Kaggle Competition.** \
-For more information and data sets --> https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression \
+For more information and data sets --> https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression  
 
 **Whats to come?** \
 *Another notebook will be uploaded soon, I am currently busy with exams.* \
